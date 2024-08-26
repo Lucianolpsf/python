@@ -7,7 +7,7 @@ Nesta aula temos como por objetivo entender as estruturas condicionais e operado
     - [x] if 
     - [x] elif
     - [x] else
-    - [ ] match       
+    - [x] match       
 
 - Operadores relacionais
     - [x] ">" 
