@@ -49,16 +49,19 @@ numeros.sort()
 print(frutas)
 print(numeros)
 
+# inverte a ordem da lista
 frutas.reverse()
 numeros.reverse()
 print(frutas)
 print(numeros)
 
+# exclui um lista por completo ou um elemento especifico.
 del frutas[0]
 print(frutas)
 
-frutas.clear()
+del frutas
 print(frutas)
 
-del frutas
+# Limpa a lista
+frutas.clear()
 print(frutas)

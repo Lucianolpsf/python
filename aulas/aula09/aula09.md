@@ -8,3 +8,15 @@
 - split
 - join
 - slice
+
+# Metodos de Lista
+
+- append
+- extend
+- insert
+- remove
+- pop
+- index
+- sort
+- reverse
+- del
