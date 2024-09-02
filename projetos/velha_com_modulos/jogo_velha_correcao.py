@@ -3,13 +3,13 @@ import velha_funcoes as jv
 jogador = 'X'
 vencedor = False
 
-while vencedor == False:
-    
+while not vencedor:
+
     jv.desenhar_tabuleiro()
 
     jogada = int(input('Onde deseja jogar?'))
 
-    while jv.validar_jogada(jogada) == False:
+    while not jv.validar_jogada(jogada):
         jv.desenhar_tabuleiro()
         jogada = int(input('Jogada invalida, tente novamente:\n'))
 
@@ -20,5 +20,5 @@ while vencedor == False:
     vencedor = jv.verifica_vitoria()
     jogador = jv.troca_jogador(jogador)
 
-jogador = jv.troca_jogador(jogador)    
+jogador = jv.troca_jogador(jogador)
 print(f'O jogador "{jogador}" venceu')
