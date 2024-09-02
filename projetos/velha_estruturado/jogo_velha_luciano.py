@@ -58,7 +58,7 @@ while True:
     # valida = validar_jogada(jogada)
     while validar_jogada(jogada) == False:
         desenha_tabuleiro()
-        jogada = input('Jogada invalida, tente novamente:\n')
+        jogada = int(input('Jogada invalida, tente novamente:\n'))
 
     jogar(jogada)
     
