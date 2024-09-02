@@ -4,13 +4,13 @@ operacao = input('Informe suaoperação "*" , "/" , "+", "-" :')
 
 
 match operacao:
-    case '*' :
-        print('a multiplicação: ', numero1 * numero2)    
-    case  '/': 
-        print('a divisão: ', numero1 / numero2)    
+    case '*':
+        print('a multiplicação: ', numero1 * numero2)
+    case  '/':
+        print('a divisão: ', numero1 / numero2)
     case  '+':
-        print('a soma: ', numero1 + numero2)    
+        print('a soma: ', numero1 + numero2)
     case  '-':
-        print('a subtração: ', numero1 - numero2)    
+        print('a subtração: ', numero1 - numero2)
     case _:
         print('Operação invalida')

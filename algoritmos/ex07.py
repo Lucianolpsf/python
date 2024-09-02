@@ -8,4 +8,3 @@ elif nota >= 8.0 and nota <= 10.0:
     print('nota media')
 else:
     print('Nota invalida')
-

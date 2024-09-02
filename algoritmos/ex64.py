@@ -1,4 +1,4 @@
-lista =[]
+lista = []
 
 for i in range(10):
     numero = int(input('fornceça numero'))
@@ -6,4 +6,4 @@ for i in range(10):
         lista.append(numero)
 
 for numero in lista:
-    print(numero) 
+    print(numero)

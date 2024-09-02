@@ -17,18 +17,18 @@ print(type(numero2))
 
 # Exemplo de 4 tipos de dados
 nome = 'Luciano'
-sobrenome ='lopes'
+sobrenome = 'lopes'
 idade = 30
 altura = 1.78
 vivo = False
 
 # exemplos de concatenação
-print('O seu nome completo é '+ nome +' '+ sobrenome)
-print('O seu nome completo é', nome , sobrenome)
+print('O seu nome completo é ' + nome + ' ' + sobrenome)
+print('O seu nome completo é', nome, sobrenome)
 print(f'O seu nome completo é {nome} {sobrenome}')
 
-print('A soma é: ', soma )
-print('A subtracao é: '+ str(subtracao))
+print('A soma é: ', soma)
+print('A subtracao é: ' + str(subtracao))
 print('A multiplicacao é: {} e a divisão foi {}'.format(multiplicacao, divisao))
 print(f'A multiplicacao é: {multiplicacao} e a divisão foi {divisao}')
 

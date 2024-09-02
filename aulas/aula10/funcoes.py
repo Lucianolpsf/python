@@ -20,16 +20,18 @@
 # print(resposta)
 
 # função que recebe dois numeros e soma
-def soma (a , b) :
+import os
+
+
+def soma(a, b):
     soma = a + b
     return soma
 
 
-somar = lambda a, b: a + b
+def somar(a, b): return a + b
+
 
 print(somar(10, 5))
-
-
 
 
 # # uso da função soma
@@ -51,7 +53,7 @@ print(somar(10, 5))
 
 # função com multiplo retorno
 
-def dividir (numero1 , numero2 ):
+def dividir(numero1, numero2):
     resposta = numero1 // numero2
     resto = numero1 % numero2
     return resposta, resto
@@ -81,13 +83,13 @@ def exibir_informacoes2(**args):
 
 # key : value
 # chave : valor
-pessoas =[{
+pessoas = [{
     'nome': 'Luciano',
     'idade': 30,
     'estado_civil': 'casado',
     'escolaridade': 'especialista'
 },
-{
+    {
     'nome': 'Daniel',
     'idade': 19,
     'estado_civil': 'noivo',
@@ -96,7 +98,6 @@ pessoas =[{
 
 print(pessoas[1])
 
-import os 
 
 os.system('clear')
 

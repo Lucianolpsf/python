@@ -17,7 +17,7 @@
 #     case _:
 #         print('opção invalida')
 
-#atribuição de valores a uma variavel
+# atribuição de valores a uma variavel
 
 # numero = 10
 # print(numero)
@@ -46,7 +46,7 @@
 #     print('numero é par')
 # else:
 #     print('numero é impar')
-    
+
 # laços de repetição for em portugues 'para'
 
 # for i in range(5):
@@ -93,11 +93,11 @@ numero = int(input('Informe o numero: '))
 
 while contador < 10:
     print(contador)
-    contador +=1
+    contador += 1
 
 # numero = 10
 # while True:
-#     numero *= 10 
+#     numero *= 10
 #     print(numero)
 #     if numero > 100000000:
-#         break 
+#         break

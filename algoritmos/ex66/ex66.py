@@ -1,4 +1,4 @@
-from os import system 
+from os import system
 import operacoes as op
 # from operacoes import menu , listar_nomes
 # import operacoes
@@ -18,11 +18,11 @@ while operacao == 'sim':
             nome = input('que nome deseja atualizar? ')
             novo_nome = input('Qual será o novo nome? ')
 
-            op.atualiza_nome(nome,novo_nome)
+            op.atualiza_nome(nome, novo_nome)
 
         case 3:
             nome = input('Que nome deseja remover? ')
-            
+
             op.excluir_nome(nome)
 
         case 4:
@@ -36,4 +36,3 @@ while operacao == 'sim':
 
     if operacao != 'sim':
         break
-    

@@ -1,5 +1,5 @@
 
-cavaleiros = ['Seya','Aldebaran', 'Aldebaran', 'Shun', 'Shiryu', 'Yoga' ]
+cavaleiros = ['Seya', 'Aldebaran', 'Aldebaran', 'Shun', 'Shiryu', 'Yoga']
 
 print(cavaleiros)
 
@@ -12,7 +12,7 @@ cavaleiros.extend(['Shina', 'Maryn'])
 print(cavaleiros)
 
 # inserir na lista em uma posição especifica
-cavaleiros.insert(0,'Athena')
+cavaleiros.insert(0, 'Athena')
 print(cavaleiros)
 
 # remove, exclui um elemento pelo valor.
@@ -20,7 +20,7 @@ cavaleiros.remove('Shun')
 print(cavaleiros)
 
 # pop - exclui o ultimo elemtno da lista ou o indice informado
-elemento = cavaleiros.pop() 
+elemento = cavaleiros.pop()
 cavaleiros.pop(0)
 print(cavaleiros)
 print(elemento)
@@ -39,9 +39,10 @@ print(cavaleiros)
 print(cavaleiros.count('Aldebaran'))
 
 # sort ordena a lista de forma crescente
-frutas = ['morango', 'maçã', 'abacaxi', 'kiwi', 'amora', 'umbu', 'laranja', 'bergamota']
+frutas = ['morango', 'maçã', 'abacaxi', 'kiwi',
+          'amora', 'umbu', 'laranja', 'bergamota']
 
-numeros = [ 9 , 5 ,81, 100, 33, 21, 2]
+numeros = [9, 5, 81, 100, 33, 21, 2]
 
 frutas.sort()
 numeros.sort()
