@@ -31,7 +31,7 @@ Aprendendo a linguagem de marcação ***markdown*** no curso de *python* do __SE
 
 ![Logo do senai](https://logodownload.org/wp-content/uploads/2019/08/senai-logo-0.png)
 
-![Logo python](./img/python.png)
+![Logo python](./assets/img/python.png)
 
 ## link com imagem
 

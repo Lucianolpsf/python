@@ -1,6 +1,13 @@
 # Curso de python
 
+![Banner do curso com python logo](./assets/img/python-banner-classroom.png)
+
 Curso de capacitação python ofertado pelo programa inovatech em parceria com o SENAI.
+
+
+
+## Aulas
+<br>
 
 |#|Descrição|link|
 |:-:|-|:-:|
@@ -17,3 +24,33 @@ Curso de capacitação python ofertado pelo programa inovatech em parceria com o
 |11| Revisão |[Aqui](./notebooks/revisao.ipynb)|
 |12| Dicionario e seus metodos |[Aqui](./aulas/aula12/dicionario.ipynb)|
 |13| |[Aqui]()|
+|14| |[Aqui]()|
+|15| |[Aqui]()|
+|16| |[Aqui]()|
+|17| |[Aqui]()|
+|18| |[Aqui]()|
+|19| |[Aqui]()|
+|20| |[Aqui]()|
+
+<br>
+
+## Tecnologias e Ferramentas
+
+<div style="display: inline_block" align=center>
+    <img align="center" alt="logo python" height="120" src="./assets/img/python.png">
+    <img align="center" alt="logo jupyter notebook" height="60" src="./assets/img/Jupyter_Logo.webp">
+    <img align="center" alt="logo git" height="50" src="./assets/img/git.webp">
+    <img align="center" alt="logo visual studio code" height="50" src="./assets/img/visual-studio-code-logo.png">
+</div>
+
+## Agradecimentos
+
+<div style="display: inline_block" align=center>
+    <a href="https://www.youtube.com/@pobre.vencedor?sub_confirmation=1" target="_blank">
+        <img align="center" alt="logo do canl do youtube" height="70" src="./assets/img/pobre-vencedor.png"></a>
+    <a href="https://www.sistemafibra.org.br/senai/" target="_blank">
+        <img align="center" alt="logo do senai" height="300"  src="./assets/img/senai-logo-0.png"></a>
+    <a href="https://www.sistemafibra.org.br/senai/educacao/inova-tech" target="_blank">
+        <img align="center" alt="logo do programa inova tech" height="70" src="./assets/img/df-inova-tech.png"></a>
+
+</div>

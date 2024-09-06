@@ -1,7 +1,5 @@
 from os import system
 import operacoes as op
-# from operacoes import menu , listar_nomes
-# import operacoes
 
 operacao = 'sim'
 matricula = 0
