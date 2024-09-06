@@ -23,13 +23,13 @@ Curso de capacitação python ofertado pelo programa inovatech em parceria com o
 |10| Funções |[Aqui](./aulas/aula10/funcoes.py)|
 |11| Revisão |[Aqui](./notebooks/revisao.ipynb)|
 |12| Dicionario e seus metodos |[Aqui](./aulas/aula12/dicionario.ipynb)|
-|13| |[Aqui]()|
-|14| |[Aqui]()|
-|15| |[Aqui]()|
-|16| |[Aqui]()|
-|17| |[Aqui]()|
-|18| |[Aqui]()|
-|19| |[Aqui]()|
+|13| Correção de Atividades |[Aqui](./algoritmos/)|
+|14| Utilizando ambientes virtuais | - |
+|15| Revisão |[Aqui](./notebooks/revisao.ipynb)|
+|16| Utilizando Jupyter notebook fora do vscode | - |
+|17| Instrução any(), all() e try acept |[Aqui](./notebooks/utilitarios.ipynb)|
+|18| Introduzindo biblioteca pandas |[Aqui]()|
+|19| Atividades | - |
 |20| |[Aqui]()|
 
 <br>
